@@ -83,7 +83,10 @@ No key is needed for Pollinations.ai (image generation) or gTTS (narration) — 
 
 | Story Settings | A Generated Scene |
 |------------------|----------------------|
-| `screenshots/settings.png` | `screenshots/scene.png` |
+<img width="1917" height="883" alt="image" src="https://github.com/user-attachments/assets/b3713d55-a662-46b8-9ef1-810ce5933390" />
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/88a4735e-3468-4b41-9fac-ffa9d20aa827" />
+<img width="1917" height="816" alt="image" src="https://github.com/user-attachments/assets/3e3aad48-b516-45da-a24c-b84d1e1eb269" />
+
 
 ---
 
